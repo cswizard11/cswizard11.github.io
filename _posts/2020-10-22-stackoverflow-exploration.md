@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Stackoverflow Exploration
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: An eploration of a Stackoverflow data dump
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/qa.png
+share-img: /assets/img/qa.jpg
 ---
