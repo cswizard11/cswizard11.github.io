@@ -16,4 +16,4 @@ share-img: /assets/img/qa.png
 
 Looking at the variables availible, the one that stands out to me the most is the score of the question. It would make sense that a question with a lot of upvotes would get an answer with a lot of upvotes. But does the data agree that there is a relationship between the two? Here's a graph to answer that question.
 
-![Graph 1](https://github.com/cswizard11/cswizard11.github.io/blob/master/assets/img/qa.png)
+![Graph 1](/assets/img/qa.png)
