@@ -23,3 +23,13 @@ So, is there a relationship here? Well maybe, but certainly not a linear one. Th
 Well I'd hate to come up with nothing from this data set, so I took a look to see if any two variables were related. And the answer is kind of.
 
 ![Graph 2](/assets/img/qvqs.png)
+
+As you can see, the line of best fit is better, but not great. Most of the time, if your quesiton gets more views, it will get more upvotes. However, the model only accounts for 54% of the variability. Much stronger than the others, but not fantastic.
+
+So why doesn't there seem to be much relationship between any of these variables? Well I believe it's because Stackoverflow is a very complex website, and is made up of real people interacting with eachother. With something like Google or Youtube, search engine optimization is very effective, since you're gaming an algorithm. With Stackoverflow, it would be like trying to game people, which is far more complicated, and far more difficult. Because of this, it seems there are no simple variables you can change in your Stackoverflow question to recieve a better answer.
+
+
+
+
+
+[Notebook I created to explore the data](https://github.com/cswizard11/cswizard11.github.io/blob/master/perms.ipynb)
